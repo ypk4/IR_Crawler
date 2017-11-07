@@ -4,7 +4,7 @@ $seed_url = "http://www.coep.org.in";
 
 #$links = array();	#Empty array to hold all links to return
 
-$crawling_depth = 100; #manual definition of crawling depth
+$crawling_depth = 800; #manual definition of crawling depth
 
 $myfile = fopen("urls.txt", "w");
 
